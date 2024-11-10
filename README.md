@@ -14,19 +14,19 @@
 
 ## Como utilizar 
 
-1 - Clone para o projeto 🐬
+1 - Clone para o projeto ↓ 🐬
      
 ```
 git clone https://github.com/LucasERMachado/Projeto-Pokedevs.git
 ```
 
-2 - Acesse a pasta do projeto 🐋
+2 - Acesse a pasta do projeto ↓ 🐋
 
 ```
 cd Projeto-Pokedevs
 ```
 
-3 - Para abrir 🐟
+3 - Para abrir ↓ 🐟
 
 ```
 code .
